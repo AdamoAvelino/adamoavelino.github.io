@@ -1,0 +1,16 @@
+html {
+   font-family: 'Poppins', sans-serif;
+}
+
+.full {
+   padding: 0px !important;
+}
+
+.col-full {
+   height: 100vh;
+   
+}
+
+.row-full {
+   margin-bottom: 0px;
+}
